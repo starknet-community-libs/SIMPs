@@ -5,7 +5,7 @@ author: Clément Walter <clement@kakarot.org>
 discussions-to: https://community.starknet.io/t/snip-23-mixed-case-checksum-address-encoding/114949
 type: Standards Track
 category: SRC
-status: Discussion
+status: Review
 created: 2024-10-24
 ---
 
